@@ -46,7 +46,8 @@ namespace osu.Game.Tournament.IPC
         [BackgroundDependencyLoader]
         private void load()
         {
-            string stablePath = stableInfo.StablePath ?? findStablePath();
+            //string stablePath = stableInfo.StablePath ?? findStablePath();
+            string stablePath = AppDomain.CurrentDomain.BaseDirectory;
             initialiseIPCStorage(stablePath);
         }
 
