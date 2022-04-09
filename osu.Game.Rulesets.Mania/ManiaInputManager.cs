@@ -86,5 +86,29 @@ namespace osu.Game.Rulesets.Mania
 
         [Description("Key 20")]
         Key20,
+
+        [Description("Key 21")]
+        Key21,
+
+        [Description("Key 22")]
+        Key22,
+
+        [Description("Key 23")]
+        Key23,
+
+        [Description("Key 24")]
+        Key24,
+
+        [Description("Key 25")]
+        Key25,
+
+        [Description("Key 26")]
+        Key26,
+
+        [Description("Key 27")]
+        Key27,
+
+        [Description("Key 28")]
+        Key28,
     }
 }

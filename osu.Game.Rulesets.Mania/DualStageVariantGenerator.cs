@@ -30,11 +30,11 @@ namespace osu.Game.Rulesets.Mania
             }
             else
             {
-                stage1LeftKeys = new[] { InputKey.Q, InputKey.W, InputKey.E, InputKey.R };
-                stage1RightKeys = new[] { InputKey.I, InputKey.O, InputKey.P, InputKey.BracketLeft };
+                stage1LeftKeys = new[] { InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A };
+                stage1RightKeys = new[] { InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A };
 
-                stage2LeftKeys = new[] { InputKey.S, InputKey.D, InputKey.F, InputKey.G };
-                stage2RightKeys = new[] { InputKey.J, InputKey.K, InputKey.L, InputKey.Semicolon };
+                stage2LeftKeys = new[] { InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A };
+                stage2RightKeys = new[] { InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A };
             }
         }
 

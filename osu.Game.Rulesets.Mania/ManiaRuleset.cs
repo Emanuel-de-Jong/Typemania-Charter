@@ -43,7 +43,7 @@ namespace osu.Game.Rulesets.Mania
         /// <summary>
         /// The maximum number of supported keys in a single stage.
         /// </summary>
-        public const int MAX_STAGE_KEYS = 10;
+        public const int MAX_STAGE_KEYS = 14;
 
         public override DrawableRuleset CreateDrawableRulesetWith(IBeatmap beatmap, IReadOnlyList<Mod> mods = null) => new DrawableManiaRuleset(this, beatmap, mods);
 
@@ -234,6 +234,10 @@ namespace osu.Game.Rulesets.Mania
                             new ManiaModKey8(),
                             new ManiaModKey9(),
                             new ManiaModKey10(),
+                            new ManiaModKey11(),
+                            new ManiaModKey12(),
+                            new ManiaModKey13(),
+                            new ManiaModKey14(),
                             new ManiaModKey1(),
                             new ManiaModKey2(),
                             new ManiaModKey3()),
