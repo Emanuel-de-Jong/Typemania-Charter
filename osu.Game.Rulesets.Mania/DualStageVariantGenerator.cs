@@ -30,11 +30,11 @@ namespace osu.Game.Rulesets.Mania
             }
             else
             {
-                stage1LeftKeys = new[] { InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A };
-                stage1RightKeys = new[] { InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A };
+                stage1LeftKeys = new[] { InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A };
+                stage1RightKeys = new[] { InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A };
 
-                stage2LeftKeys = new[] { InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A };
-                stage2RightKeys = new[] { InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A };
+                stage2LeftKeys = new[] { InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A };
+                stage2RightKeys = new[] { InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A, InputKey.A };
             }
         }
 
