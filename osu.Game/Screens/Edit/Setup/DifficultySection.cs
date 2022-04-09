@@ -34,7 +34,7 @@ namespace osu.Game.Screens.Edit.Setup
                     {
                         Default = BeatmapDifficulty.DEFAULT_DIFFICULTY,
                         MinValue = 0,
-                        MaxValue = 10,
+                        MaxValue = 26,
                         Precision = 0.1f,
                     }
                 },
