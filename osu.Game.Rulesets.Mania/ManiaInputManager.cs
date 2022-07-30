@@ -88,5 +88,101 @@ namespace osu.Game.Rulesets.Mania
 
         [Description("Key 20")]
         Key20,
+
+        [Description("Key 21")]
+        Key21,
+
+        [Description("Key 22")]
+        Key22,
+
+        [Description("Key 23")]
+        Key23,
+
+        [Description("Key 24")]
+        Key24,
+
+        [Description("Key 25")]
+        Key25,
+
+        [Description("Key 26")]
+        Key26,
+
+        [Description("Key 27")]
+        Key27,
+
+        [Description("Key 28")]
+        Key28,
+
+        [Description("Key 29")]
+        Key29,
+
+        [Description("Key 30")]
+        Key30,
+
+        [Description("Key 31")]
+        Key31,
+
+        [Description("Key 32")]
+        Key32,
+
+        [Description("Key 33")]
+        Key33,
+
+        [Description("Key 34")]
+        Key34,
+
+        [Description("Key 35")]
+        Key35,
+
+        [Description("Key 36")]
+        Key36,
+
+        [Description("Key 37")]
+        Key37,
+
+        [Description("Key 38")]
+        Key38,
+
+        [Description("Key 39")]
+        Key39,
+
+        [Description("Key 40")]
+        Key40,
+
+        [Description("Key 41")]
+        Key41,
+
+        [Description("Key 42")]
+        Key42,
+
+        [Description("Key 43")]
+        Key43,
+
+        [Description("Key 44")]
+        Key44,
+
+        [Description("Key 45")]
+        Key45,
+
+        [Description("Key 46")]
+        Key46,
+
+        [Description("Key 47")]
+        Key47,
+
+        [Description("Key 48")]
+        Key48,
+
+        [Description("Key 49")]
+        Key49,
+
+        [Description("Key 50")]
+        Key50,
+
+        [Description("Key 51")]
+        Key51,
+
+        [Description("Key 52")]
+        Key52,
     }
 }
