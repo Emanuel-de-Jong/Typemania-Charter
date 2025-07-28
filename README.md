@@ -1,4 +1,4 @@
-# typemania-charter
+# Typemania Charter
 An osu!lazer fork with 26k support for typemania charting/mapping
 
 1. Start lazer with start.bat
