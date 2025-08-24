@@ -13,4 +13,4 @@ A osu!lazer fork with 26k support for typemania charting/mapping.
 
 | | |
 | :---: | :---: |
-| ![](/Screenshots/1-Game.png) | ![](/Screenshots/.png) |
+| ![](/Screenshots/.png) | ![](/Screenshots/.png) |
