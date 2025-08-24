@@ -1,5 +1,5 @@
 # Typemania Charter
-An osu!lazer fork with 26k support for typemania charting/mapping
+A osu!lazer fork with 26k support for typemania charting/mapping.
 
 1. Start lazer with `start.bat`.
 2. Drag & drop the typemania.osk skin and select it.
