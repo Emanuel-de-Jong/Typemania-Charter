@@ -8,8 +8,8 @@ A osu!lazer fork with 26k support for typemania charting/mapping.
 5. Change the extension from `.osz` to `.zip` and extract it to a folder.
 6. Put the folder in `soundsphere\userdata\charts`.
 
-**Active Development:** <br>
-**Last Change:** <br>
+**Active Development:** 2022-04-09 - 2022-04-09<br>
+**Last Change:** 2022-07-31<br>
 
 | | |
 | :---: | :---: |
